@@ -1,0 +1,60 @@
+.information {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+.nodeinfo {
+  color: rgb(41, 248, 14);
+  font-size: 25px;
+  font-weight: 600;
+  font-family: "Anton";
+}
+.startbox {
+  height: 22px;
+  width: 22px;
+  background-color: rgb(43, 90, 5);
+  padding: 1px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+
+.endbox {
+  height: 22px;
+  width: 22px;
+  background-color: rgb(236, 5, 5);
+  margin-top: 10px;
+  margin-left: 40px;
+}
+
+.wallbox {
+  height: 22px;
+  width: 22px;
+  background-color: black;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.weightbox {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(250, 37, 0);
+  border-radius: 15px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.visitedbox {
+  height: 22px;
+  width: 22px;
+  background-color: rgb(34, 241, 241);
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.shortestbox {
+  height: 22px;
+  width: 22px;
+  background-color: rgb(97, 243, 0);
+  margin-top: 10px;
+  margin-left: 50px;
+}

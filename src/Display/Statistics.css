@@ -1,0 +1,23 @@
+.info {
+  font-size: larger;
+  position: relative;
+  margin: 10px;
+  margin-left: 2%;
+  font-weight: 600;
+  color: rgb(11, 167, 154);
+  font: 1.7em sans-serif;
+  font-weight: 500;
+  font-family: cursive;
+}
+.insideinfo {
+  width: 100%;
+  margin: 5px;
+}
+.stats {
+  font-family: monospace;
+  font-weight: 500;
+  color: rgb(8, 75, 69);
+  margin-top: 40px;
+  margin-left: 160px;
+  position: absolute;
+}

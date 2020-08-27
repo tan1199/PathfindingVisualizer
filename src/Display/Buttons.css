@@ -1,0 +1,74 @@
+.disp {
+  display: flex;
+  justify-content: center;
+  margin-top: 10x;
+}
+.lol {
+  font-size: large;
+  border-radius: 5px;
+  color: rgb(41, 248, 14);
+  font-family: cursive;
+  margin: 20px auto;
+  padding: 0 20px;
+  cursor: pointer;
+  background-color: black;
+  width: 134x;
+  height: 50px;
+}
+.ll {
+  font-size: large;
+  border-radius: 5px;
+  color: rgb(41, 248, 14);
+  font-family: cursive;
+  margin: 20px auto;
+  padding: 0 20px;
+  cursor: pointer;
+  background-color: black;
+  width: 134px;
+  height: 50px;
+}
+.algos {
+  border-radius: 5px;
+  font-size: large;
+  color: rgb(41, 248, 14);
+  font-family: cursive;
+  height: 50px;
+  width: 200px;
+  margin: 13px;
+  padding-top: 0px;
+  padding-left: 10px;
+  background-color: black;
+  margin-top: 20px;
+  margin-right: 35px;
+  margin-left: 0px;
+}
+.internal {
+  margin: 10px;
+  padding: 5px;
+  background-color: black;
+  color: rgb(41, 248, 14);
+}
+.para {
+  display: inline-block;
+  font-family: monospace;
+  font-family: cursive;
+  width: 220px;
+  height: 35px;
+  margin: 10px;
+  margin-top: 21px;
+  padding-top: 7px;
+}
+.check {
+  display: flex;
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+.checkmark {
+  height: 34px;
+  width: 250px;
+  background-color: black;
+  color: rgb(41, 248, 14);
+  border-radius: 52px;
+  padding: 5px;
+}

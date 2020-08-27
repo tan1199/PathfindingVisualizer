@@ -1,0 +1,9 @@
+.grid {
+  margin-top: 85px;
+  width: 1000px;
+  margin-left: 160px;
+  margin-bottom: 25px;
+  z-index: 1;
+  border: 5px solid black;
+  border-radius: 10px;
+}
